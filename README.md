@@ -64,7 +64,7 @@ Certifique-se de que tem o seguinte instalado na sua máquina:
 
 ```bash
 git clone https://github.com/Marqzzs/mflix.git
-cd moodflix
+cd mflix
 ```
 
 **Instalação**
