@@ -48,7 +48,7 @@ Construído com React.js para a interface do utilizador, Appwrite para o algorit
 
 e muito mais, incluindo arquitetura de código e reutilização
 
-<# <a name=“quick-start”>🤸 Quick Start</a>
+## <a name=“quick-start”>🤸 Quick Start</a>
 
 Siga estes passos para configurar o projeto localmente na sua máquina.
 
