@@ -19,7 +19,7 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Intrdução](#introduction)
+1. 🤖 [Introdução](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
