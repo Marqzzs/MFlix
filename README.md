@@ -1,95 +1,98 @@
-<div align="center"> <br /> <a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank"> <img src="https://github.com/user-attachments/assets/acb3c1e6-04ef-4787-a602-f16abe9a04fe" alt="Banner do Projeto"> </a> <br /> <div> <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" /> <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" /> </div> <h3 align="center">Um Aplicativo de Filmes</h3> <div align="center"> Construa este projeto passo a passo com nosso tutorial detalhado no <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> no YouTube. Junte-se à família JSM! </div> </div>
-📋 <a name="table">Índice</a>
-🤖 Introdução
-⚙️ Tecnologias
-🔋 Recursos
-🤸 Início Rápido
-🕸️ Trechos de Código
-🔗 Assets
-🚀 Mais
-🚨 Tutorial
-Este repositório contém o código correspondente a um tutorial detalhado disponível no nosso canal do YouTube, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+<div align="center">
+  <br />
+      <img src="https://imgs.search.brave.com/FJQ1IwkInCVsenzVTEU0dKRrEy6h01sq4wNCY1z3NdU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZXVyb3Bvc3RlcnMu/ZXUvaW1hZ2UvMzUw/L3Bvc3RlcnMvZHVu/YS1wYXJ0ZS0xLWkx/MjI4MTUuanBn" alt="Project Banner">
+    </a>
+  <br />
+  
+  <div>
+    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
+    <img src="https://img.shields.io/badge/-Appwrite-black?style=for-the-badge&logoColor=white&logo=appwrite&color=FD366E" alt="appwrite" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
-Se você prefere aprender visualmente, este é o recurso perfeito para você. Siga nosso tutorial para aprender a construir projetos como este, passo a passo, de maneira acessível para iniciantes!
+  <h3 align="center">Uma aplicação de filmes</h3>
 
-<a href="https://www.youtube.com/watch?v=dCLhUialKPQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
+   <div align="center">
+     Projeto de uma aplicação de filmes com banco de dados externo
+    </div>
+</div>
 
-<a name="introduction">🤖 Introdução</a>
-Construído com React.js para a interface do usuário, Appwrite para o Algoritmo de Filmes em Tendência e estilizado com TailwindCSS, Moodflix é um projeto de site projetado para ajudar iniciantes a aprender React.js. A plataforma oferece uma experiência moderna e elegante para navegar e descobrir filmes.
+## 📋 <a name="table">Table of Contents</a>
 
-Se você está começando e precisa de ajuda ou enfrenta algum problema, junte-se à nossa comunidade ativa no Discord com mais de 50 mil membros. É um espaço onde as pessoas se ajudam mutuamente.
+1. 🤖 [Intrdução](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+## <a name="introduction">🤖 Introduction</a>
 
-<a name="tech-stack">⚙️ Tecnologias</a>
-React.js
-Appwrite
-Tailwind CSS
-<a name="features">🔋 Recursos</a>
-👉 Explorar Todos os Filmes: Navegue por uma ampla variedade de filmes disponíveis na plataforma.
+Construído com React.js para a interface do utilizador, Appwrite para o algoritmo Trending Movies e estilizado com TailwindCSS, o Mflix é um projeto de website. A plataforma oferece uma experiência elegante e moderna para navegar e descobrir filmes.
 
-👉 Pesquisar Filmes: Busque facilmente por filmes específicos usando a função de pesquisa.
+## <a name="tech-stack">⚙️ Tech Stack</a>
 
-👉 Algoritmo de Filmes em Tendência: Exibe os filmes mais populares com base em um algoritmo dinâmico.
+- React.js
+- Appwrite
+- Tailwind CSS
 
-👉 Interface Moderna: Design elegante e intuitivo para uma ótima experiência do usuário.
+## <a name="features">🔋 Features</a>
 
-👉 Responsividade: Design totalmente responsivo que funciona perfeitamente em diferentes dispositivos.
+👉 **Navegar em todos os filmes**: Explore uma ampla gama de filmes disponíveis na plataforma.
 
-E muito mais, incluindo arquitetura de código e reutilização!
+👉 **Pesquisar Filmes**: Pesquise facilmente filmes específicos usando uma função de pesquisa.
 
-<a name="quick-start">🤸 Início Rápido</a>
+👉 **Algoritmo de Filmes Tendência**: Exibe filmes de tendências com base em um algoritmo dinâmico.
+
+👉 **IU/UX moderna**: Uma interface elegante e fácil de usar projetada para uma ótima experiência.
+
+👉 **Responsividade**: Design totalmente responsivo que funciona perfeitamente em todos os dispositivos.
+
+e muito mais, incluindo arquitetura de código e reutilização
+
+<# <a name=“quick-start”>🤸 Quick Start</a>
+
 Siga estes passos para configurar o projeto localmente na sua máquina.
 
-Pré-requisitos
-Certifique-se de ter os seguintes programas instalados:
+**Pré-requisitos**
 
-Git
-Node.js
-npm (Gerenciador de Pacotes do Node)
-Clonando o Repositório
-bash
-Copiar
-Editar
-git clone https://github.com/JavaScript-Mastery-Pro/moodflix.git  
-cd moodflix  
-Instalação
-Instale as dependências do projeto com npm:
+Certifique-se de que tem o seguinte instalado na sua máquina:
 
-bash
-Copiar
-Editar
-npm install  
-Configurar Variáveis de Ambiente
-Crie um novo arquivo chamado .env.local na raiz do projeto e adicione o seguinte conteúdo:
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Gerenciador de pacotes do Node)
 
-env
-Copiar
-Editar
-VITE_IMDB_API_KEY=  
+**Clonando o Repositório**
 
-VITE_APPWRITE_PROJECT_ID=  
-VITE_APPWRITE_DATABASE_ID=  
-VITE_APPWRITE_COLLECTION_ID=  
-Substitua os valores de espaço reservado com suas credenciais reais da TheMovieDatabase API e Appwrite. Você pode obter essas credenciais registrando-se no TheMovieDatabase e criando um novo projeto no Appwrite.
+```bash
+git clone https://github.com/Marqzzs/mflix.git
+cd moodflix
+```
 
-Executando o Projeto
-bash
-Copiar
-Editar
-npm run dev  
-Abra http://localhost:5173 no seu navegador para visualizar o projeto.
+**Instalação**
 
-<a name="snippets">🕸️ Trechos de Código</a>
-<details> <summary><code>index.css</code></summary>
-(Código CSS incluído aqui)
+Instale as dependências do projeto usando o npm:
 
-</details>
-<a name="links">🔗 Assets</a>
-Os assets públicos usados no projeto podem ser encontrados aqui.
+```bash
+npm install
+```
 
-<a name="more">🚀 Mais</a>
-Aprimore suas habilidades com o Curso Pro de Next.js
-Gostou de criar este projeto? Aprenda ainda mais com nossos cursos PRO! Eles são repletos de explicações detalhadas, recursos avançados e exercícios para melhorar suas habilidades. Experimente!
+**Configurar variáveis de ambiente**
 
-<a href="https://jsmastery.pro/next15" target="_blank"> <img src="https://github.com/user-attachments/assets/b8760e69-1f81-4a71-9108-ceeb1de36741" alt="Banner do Projeto"> </a>
+Crie um novo arquivo chamado `.env.local` na raiz do seu projeto e adicione o seguinte conteúdo:
+
+```env
+VITE_IMDB_API_KEY=
+
+VITE_APPWRITE_PROJECT_ID=
+VITE_APPWRITE_DATABASE_ID=
+VITE_APPWRITE_COLLECTION_ID=
+```
+
+Substitua os valores do marcador de posição pelas suas credenciais reais **[TheMovieDatabase API](https://developer.themoviedb.org/reference/intro/getting-started)** e **[Appwrite](https://apwr.dev/JSM050)**. Pode obter estas credenciais inscrevendo-se no site [TheMovieDatabase](https://developer.themoviedb.org/reference/intro/getting-started) e criando um novo projeto no site [Appwrite](https://apwr.dev/JSM050)
+
+**Executando o Projeto**
+
+```bash
+npm run dev
+```
+
+Abra [http://localhost:5173](http://localhost:5173) no seu navegador para ver o projeto.
